@@ -1,3 +1,4 @@
+streamlit
 langchain
 langgraph
 langchain_community
